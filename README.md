@@ -12,7 +12,7 @@ This is a Next.js project with Supabase integration, using the Supabase client l
 ### Features
 The
 
-#### Installation
+### Installation
 
 1. Clone the repository
 
@@ -30,4 +30,11 @@ bun install
 
 ```bash
 bun dev
+```
+
+### Commands
+
+1. Add Shadcn-ui Button Component
+```bash
+bunx --bun shadcn@latest add button
 ```
